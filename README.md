@@ -1,3 +1,4 @@
+![Banner](Banner.png)
 # 💫 About Me:
 I am a recent Graduate from Saint Joseph's University with a Bachelor of Computer Science. <br>My current role: Computer Science Instructor at Upward Bound, Wilkes University
 
